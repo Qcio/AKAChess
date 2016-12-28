@@ -1,2 +1,2 @@
 # AKAChess
-Projekt 
+Tutaj ma być instrukcja
